@@ -1,0 +1,10 @@
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\bin\Debug\sqlserverDatabase.dacpac
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\bin\Debug\sqlserverDatabase.dll
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\bin\Debug\sqlserverDatabase.pdb
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\sqlserverDatabase.sqlproj.AssemblyReference.cache
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\Model.xml
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\refactor.xml
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\postdeploy.sql
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\predeploy.sql
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\sqlserverDatabase.dll
+C:\Users\narenlingam.p\source\repos\sqlserverDatabase\sqlserverDatabase\obj\Debug\sqlserverDatabase.pdb
